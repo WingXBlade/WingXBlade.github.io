@@ -1,9 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>testlink</title>
+<title>wingxblade's profile</title>
 </head>
 <body>
-<h1>etstLink</h1>
+<h1>WingXBlade's profile</h1>
+<ul>
+  <li>Name: wingxblade</li>
+  <li>Location: Japan</li>
+  <li>Languages: C++, Java(in progress), python(in progress), basic html</li>
+  <li>Projects: RPG in Java (ETA: N/A)</li>
+  <li>Hobby: YT, Reddit, surfing the interwebz</li>
+  <li>Visit my blog: wingxblade@blogger.com</li>
+</ul>
 </body>
 </html>

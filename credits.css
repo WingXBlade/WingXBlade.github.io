@@ -27,13 +27,3 @@ body
     -o-background-size: cover;
     background-size: cover;
 }
-
-#back-button
-{
-	text-align: left;
-}
-
-.icon-arrow-left
-{
-    color: white;
-}
